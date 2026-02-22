@@ -140,6 +140,5 @@ Key skills reflected:
 - Insight-driven visual storytelling
 
 📬 **LinkedIn:** [Connect with me professionally](https://www.linkedin.com/in/rohit-raj-singh-3030172a4)
-    [Total Employees],
-    0
-)
+    
+
