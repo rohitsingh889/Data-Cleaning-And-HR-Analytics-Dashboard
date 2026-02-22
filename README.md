@@ -5,6 +5,11 @@ This project demonstrates an end-to-end **data analytics workflow**, starting fr
 Instead of directly building visuals, the dataset was first cleaned, validated, and transformed using a Jupyter Notebook — mirroring real-world analytics practices.
 
 ---
+![BI Image](https://github.com/rohitsingh889/Data-Cleaning-And-HR-Analytics-Dashboard/blob/main/PICS/BI%20Dashboard.png)
+
+![BI Image](https://github.com/rohitsingh889/Data-Cleaning-And-HR-Analytics-Dashboard/blob/main/PICS/Dashboard2.png)
+
+![BI Image](https://github.com/rohitsingh889/Data-Cleaning-And-HR-Analytics-Dashboard/blob/main/PICS/Dashboard%203.png)
 
 ## 🚀 Project Workflow
 
